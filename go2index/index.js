@@ -1,4 +1,4 @@
-// =======Options START=======
+// =======INÍCIO DO SCRIPT=======
 var authConfig = {
   siteName: "GoIndex-theme-acrou", // 网站名称
   version: "1.1.2", // 程序版本
@@ -105,7 +105,7 @@ var themeOptions = {
    */
   audio: {},
 };
-// =======Options END=======
+// =======FIM DAS OPÇÕES=======
 
 /**
  * global functions

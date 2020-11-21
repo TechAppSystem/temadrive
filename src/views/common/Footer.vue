@@ -6,10 +6,10 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
+              href="https://github.com/TechAppSystem/temadrive"
             >goindex-theme-acrou</a>
             <span class="tag is-light">
-              MIT &nbsp;
+              2020 &nbsp;
               <span class="icon">
                 <i class="fa fa-github"></i>
               </span>

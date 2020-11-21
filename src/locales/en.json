@@ -42,12 +42,12 @@
       "link": "Download link"
     },
     "text": {
-      "loading": "Loading..."
+      "loading": "Aguarde..."
     }
   },
   "setting": {
     "clear": {
-      "text": "Clean cache",
+      "text": "LIMPAR CACHE",
       "success": "Cache cleanup successful"
     }
   },

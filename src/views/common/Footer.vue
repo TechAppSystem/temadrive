@@ -6,8 +6,8 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/TechAppSystem/temadrive"
-            >goindex-theme-acrou</a>
+              href="https://t.me/TechAppSystem"
+            >Tech App System</a>
             <span class="tag is-light">
               2020 &nbsp;
               <span class="icon">
